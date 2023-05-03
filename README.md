@@ -15,6 +15,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 ## Credits
 
 Columbia University Coding Bootcamp
+Font Credit: github.com/andrew-paglinawan/QuicksandFamily
 
 ## License
 
